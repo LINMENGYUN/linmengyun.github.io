@@ -1,36 +1,27 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Peer-Reviewed Publications
 
-{% include base_path %}
+1. **How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice**, conditionally accepted at *The Review of Economic Studies*, with Jonathan Gruber, Haoming Liu, and Junjian Yi.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+2. **China’s Social Health Insurance in the Era of Rapid Population Aging: Achievements and Challenges**, *JAMA Health Forum*, 2025, with Jonathan Gruber, Hanmo Yang, and Junjian Yi.
 
+3. **The Largest Insurance Program in History: Saving One Million Lives per Year in China**, *Journal of Public Economics*, 2023, with Jonathan Gruber and Junjian Yi.
 
+4. **Maternal Education and the Development of Chinese Adolescents**, *Education Economics*, 2020, with Qing Wang and Fan Li.
 
+5. **Work-Family Policy and Female Entrepreneurship: Evidence from China’s Subsidized Child Care Program**, *China Economic Review*, 2019, with Qing Wang.
+
+6. **Center-based Childcare Expansion and Grandparents’ Employment and Well-being**, *Social Science & Medicine*, 2019, with Qing Wang.
+
+## Chinese Publications
+
+1. **在模型误设的统一框架下理解广义双重差分方法的最新发展**, *《管理世界》*, 2025, with 徐阳、郭汝飞、易君健.
+
+## Full CV
+
+[Download CV](/files/CV_Mengyun_Lin.pdf){:target="_blank"}
