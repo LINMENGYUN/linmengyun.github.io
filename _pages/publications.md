@@ -38,7 +38,3 @@ author_profile: true
 
 4. **The Long Shadow of Childhood Hunger on Mental Health**, under review, with Jiamin Tan and Han Ye.
 
-
-## Full CV
-
-[Download CV](/files/CV_Mengyun_Lin.pdf){:target="_blank"}
