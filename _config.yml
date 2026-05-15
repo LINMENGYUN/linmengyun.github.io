@@ -23,7 +23,7 @@ repository               : "mengyunlin/mengyunlin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/blob/master/images/photo.png"
+  avatar           : "images/photo.png"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : 
