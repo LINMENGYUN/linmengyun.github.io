@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: ""
 author_profile: true
 ---
 ## Research Areas
@@ -14,15 +14,15 @@ author_profile: true
 
 1. **How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice**, conditionally accepted at *The Review of Economic Studies*, with Jonathan Gruber, Haoming Liu, and Junjian Yi.
 
-2. **China’s Social Health Insurance in the Era of Rapid Population Aging: Achievements and Challenges**, *JAMA Health Forum*, 2025, with Jonathan Gruber, Hanmo Yang, and Junjian Yi.
+2. **[China’s Social Health Insurance in the Era of Rapid Population Aging: Achievements and Challenges](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2833037)**, *JAMA Health Forum*, 2025, with Jonathan Gruber, Hanmo Yang, and Junjian Yi.
 
-3. **The Largest Insurance Program in History: Saving One Million Lives per Year in China**, *Journal of Public Economics*, 2023, with Jonathan Gruber and Junjian Yi.
+3. **[The Largest Insurance Program in History: Saving One Million Lives per Year in China](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001810)**, *Journal of Public Economics*, 2023, with Jonathan Gruber and Junjian Yi.
 
-4. **Maternal Education and the Development of Chinese Adolescents**, *Education Economics*, 2020, with Qing Wang and Fan Li.
+4. **[Maternal Education and the Development of Chinese Adolescents](https://www.tandfonline.com/doi/full/10.1080/09645292.2020.1822786)**, *Education Economics*, 2020, with Qing Wang and Fan Li.
 
-5. **Work-Family Policy and Female Entrepreneurship: Evidence from China’s Subsidized Child Care Program**, *China Economic Review*, 2019, with Qing Wang.
+5. **[Work-Family Policy and Female Entrepreneurship: Evidence from China’s Subsidized Child Care Program](https://www.sciencedirect.com/science/article/abs/pii/S1043951X1830169X)**, *China Economic Review*, 2019, with Qing Wang.
 
-6. **Center-based Childcare Expansion and Grandparents’ Employment and Well-being**, *Social Science & Medicine*, 2019, with Qing Wang.
+6. **[Center-based Childcare Expansion and Grandparents’ Employment and Well-being](https://www.sciencedirect.com/science/article/abs/pii/S0277953619305416)**, *Social Science & Medicine*, 2019, with Qing Wang.
 
 ## Chinese Publications
 
