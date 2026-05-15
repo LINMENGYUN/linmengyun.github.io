@@ -3,7 +3,7 @@ permalink: /publications/
 title: ""
 author_profile: true
 ---
-## Research Areas
+## Research Interests
 
 - Health economics
 - Applied microeconomics
