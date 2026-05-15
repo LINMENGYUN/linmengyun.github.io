@@ -3,12 +3,6 @@ permalink: /publications/
 title: ""
 author_profile: true
 ---
-## Research Interests
-
-- Health economics
-- Applied microeconomics
-- Applied econometrics
-- Behavioral economics
 
 ## Peer-Reviewed Publications
 
