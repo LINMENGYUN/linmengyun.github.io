@@ -11,4 +11,4 @@ I am an Assistant Professor of Economics at Xiamen University. I received my Ph.
 
 You can find my [CV](/files/CV_Mengyun_Lin.pdf) here.
 
-Please contact me at [Email](mailto:mengyunlin0606@gmail.com).
+Please contact me at [mengyunlin0606@gmail.com](mailto:mengyunlin0606@gmail.com) or [lin.mengyun@xmu.edu.cn](mailto:mengyunlin0606@gmail.com).
