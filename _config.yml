@@ -24,7 +24,7 @@ repository               : "mengyunlin/mengyunlin.github.io"
 author:
   # Biographic information
   avatar           : "/images/profile.png"
-  name             : "Mengyun Lin"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Xiamen, China"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mengyunlin"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
