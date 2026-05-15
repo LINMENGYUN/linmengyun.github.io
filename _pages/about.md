@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at Xiamen University. I received my Ph.D. in Economics from the National University of Singapore in 2022. My research lies at the intersection of health economics, applied microeconomics, applied econometrics, and behavioral economics.
+I am an Assistant Professor at School of Economics and Wang Yanan Institute for Studies in Economics in Xiamen University. I received my Ph.D. in Economics from the National University of Singapore in 2022. My research lies at the intersection of health economics, applied microeconomics, applied econometrics, and behavioral economics.
 
 You can find my [CV](/files/CV_Mengyun_Lin.pdf) here.
 
