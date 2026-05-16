@@ -11,4 +11,4 @@ I am an Assistant Professor at School of Economics and Wang Yanan Institute for 
 
 You can find my [CV](/files/CV_Mengyun_Lin.pdf) here.
 
-Please contact me at [mengyunlin0606@gmail.com](mailto:mengyunlin0606@gmail.com) or [lin.mengyun@xmu.edu.cn](mailto:mengyunlin0606@gmail.com).
+Please contact me at [mengyunlin0606@gmail.com](mailto:mengyun.lin0606@gmail.com) or [lin.mengyun@xmu.edu.cn](mailto:lin.mengyun@xmu.edu.cn).
