@@ -26,9 +26,10 @@ author_profile: true
 
 1. **Food Choice Architecture: An Experimental Study**, revise and resubmit at *Management Science*, with Yiting Chen and Jiangyao Li.
 
-2. **Adapting Classical Models to Practice in the Developing World: Health Systems in Brazil, Rwanda, and China**, revise and resubmit at *Health Economics, Policy and Law*, with Hanmo Yang and Junjian Yi.
+2. **The Long Shadow of Childhood Hunger on Mental Health**, revise and resubmit at *Journal of Population Economics*, with Jiamin Tan and Han Ye.
 
-3. **Beyond the Weight: Relative Obesity, Mental Health, and the Long-term Economic Consequences**, with Keyan Lin and Hanmo Yang.
+3. **Adapting Classical Models to Practice in the Developing World: Health Systems in Brazil, Rwanda, and China**, revise and resubmit at *Health Economics, Policy and Law*, with Hanmo Yang and Junjian Yi.
 
-4. **The Long Shadow of Childhood Hunger on Mental Health**, under review, with Jiamin Tan and Han Ye.
+4. **Beyond the Weight: Relative Obesity, Mental Health, and the Long-term Economic Consequences**, with Keyan Lin and Hanmo Yang.
+
 
