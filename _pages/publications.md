@@ -28,7 +28,7 @@ author_profile: true
 
 2. **The Long Shadow of Childhood Hunger on Mental Health**, R&R at ***Journal of Population Economics***, with Jiamin Tan and Han Ye.
 
-3. **Adapting Classical Models to Practice in the Developing World: Health Systems in Brazil, Rwanda, and China**, R&R at ***Health Economics, Policy and Law***, with Hanmo Yang and Junjian Yi.
+3. **Adapting Classical Models to Practice in the Developing World: Health Systems in Brazil, Rwanda, and China**, R&R at ***Health Economics Policy and Law***, with Hanmo Yang and Junjian Yi.
 
 4. **Beyond the Weight: Relative Obesity, Mental Health, and the Long-term Economic Consequences**, with Keyan Lin and Hanmo Yang.
 
