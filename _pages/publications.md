@@ -20,7 +20,7 @@ author_profile: true
 
 ## Public Health and Health Policy
 
-1. **Institutional Assembly under Constraints: Pathways to Universal Health Coverage in Brazil, Rwanda, and China**, accepted at ***Health Economics Policy and Law***, with Hanmo Yang and Junjian Yi.
+1. **Institutional Assembly under Constraints: Pathways to Universal Health Coverage in Brazil, Rwanda, and China**, accepted at ***Health Economics, Policy and Law***, with Hanmo Yang and Junjian Yi.
 
 2. **[China’s Social Health Insurance in the Era of Rapid Population Aging: Achievements and Challenges](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2833037)**, ***JAMA Health Forum***, 2025, with Jonathan Gruber, Hanmo Yang, and Junjian Yi.
 
