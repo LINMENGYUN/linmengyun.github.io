@@ -6,7 +6,7 @@ author_profile: true
 
 ## Economics Publications
 
-1. **How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice**, accepted at ***The Review of Economic Studies***, with Jonathan Gruber, Haoming Liu, and Junjian Yi.
+1. **[How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice](https://www.restud.com/how-you-pay-drives-what-you-choose-mental-accounting-in-health-insurance-plan-choice/)**, forthcoming at ***The Review of Economic Studies***, with Jonathan Gruber, Haoming Liu, and Junjian Yi.
 
 2. **[The Largest Insurance Program in History: Saving One Million Lives per Year in China](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001810)**, ***Journal of Public Economics***, 2023, with Jonathan Gruber and Junjian Yi.
 
