@@ -16,7 +16,7 @@ author_profile: true
 
 ## Chinese Publications
 
-1. **在模型误设的统一框架下理解广义双重差分方法的最新发展**, ***《管理世界》***, 2025, with 徐阳、郭汝飞、[易君健](https://sites.google.com/view/junjianyi).
+1. **在模型误设的统一框架下理解广义双重差分方法的最新发展**, ***《管理世界》***, 2025, with 徐阳、[郭汝飞](https://ems.whu.edu.cn/info/1689/22056.htm)、[易君健](https://sites.google.com/view/junjianyi).
 
 ## Public Health and Health Policy
 
